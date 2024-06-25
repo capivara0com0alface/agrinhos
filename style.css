@@ -14,7 +14,12 @@ body{
     font-size: x-large;
     color: black;
 }
-
+.texto{
+    position: absolute;
+    right: 440px;
+    padding: 25px;
+    font-size: x-large;
+    color: black;
  .logo{
     width: 13%;
  }
