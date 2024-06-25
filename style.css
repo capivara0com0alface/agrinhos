@@ -1,3 +1,6 @@
+body{
+    color: white;
+}
 .topo{
     display: flex;
      padding: 1px 20px;
