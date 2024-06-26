@@ -228,7 +228,7 @@ body{
   position: absolute;
   top: 2%;
   left: 50%;
-  transform: translate(-50%,-50%);
+  transform: translate(-12%,-50%);
   font-family: "Inter", sans-serif;
     font-optical-sizing: auto;
 }
@@ -238,7 +238,7 @@ body{
   position: absolute;
   top: 18%;
   left: 50%;
-  transform: translate(-50%,-50%);
+  transform: translate(-18%,-50%);
 }
 
 .t2{
@@ -246,7 +246,7 @@ body{
   position: absolute;
   top: 32%;
   left: 50%;
-  transform: translate(-50%,-50%);
+  transform: translate(-18%,-50%);
 }
 
 .t3{
@@ -254,7 +254,7 @@ body{
   position: absolute;
   top: 45%;
   left: 50%;
-  transform: translate(-50%,-50%);
+  transform: translate(-18%,-50%);
 }
 
 .t4{
@@ -262,7 +262,7 @@ body{
   position: absolute;
   top: 61%;
   left: 50%;
-  transform: translate(-50%,-50%);
+  transform: translate(-18%,-50%);
 }
 
 .t5{
@@ -270,9 +270,9 @@ body{
   position: absolute;
   top: 81%;
   left: 50%;
-  transform: translate(-50%,-50%);
+  transform: translate(-18%,-50%);
 }
 
 .ret{
-  
+  width: 130%
 }
