@@ -219,15 +219,47 @@ body{
   display: inline-block;
   text-align: center;
 }
+.e{
+  color: black;
+  position: absolute;
+  top: 2%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+}
 
-.t{
+.t1{
   color: black;
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%,-50%);
 }
-.e{
+
+.t2{
+  color: black;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+}
+
+.t3{
+  color: black;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+}
+
+.t4{
+  color: black;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+}
+
+.t5{
   color: black;
   position: absolute;
   top: 50%;
