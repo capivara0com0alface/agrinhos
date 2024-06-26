@@ -232,7 +232,7 @@ body{
 .t1{
   color: black;
   position: absolute;
-  top: 50%;
+  top: 18%;
   left: 50%;
   transform: translate(-50%,-50%);
 }
