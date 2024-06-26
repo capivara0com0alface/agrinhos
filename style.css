@@ -85,6 +85,7 @@ body{
 
      .mato9{
       display: flex;
+        padding: 100px 10px;
    }
  
 .color{
@@ -189,7 +190,7 @@ body{
   font-optical-sizing: auto;
 font-weight: 400;
 position: absolute;
-padding: 0% 64%;
+padding: 8% 23%;
 text-align: center;
 }
 
