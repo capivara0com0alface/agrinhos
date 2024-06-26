@@ -276,3 +276,13 @@ body{
 .ret{
   width: 130%
 }
+
+.fim{
+  display: flex;
+     padding: 1px 20px;
+     background-color: #3AC672;
+}
+
+.logofim{
+
+}
