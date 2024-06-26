@@ -38,3 +38,18 @@ body{
     font-family: "Inter", sans-serif;
     font-style: italic;
  }
+
+ .mato{
+    display: flex;
+ }
+
+ .ma{
+        width: 2%;
+        height: 1%;
+        padding: 51px;
+    }
+ 
+.color{
+    color: black;
+}
+
