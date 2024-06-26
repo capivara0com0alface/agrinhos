@@ -68,6 +68,11 @@ body{
     .mato5{
         display: flex;
      }
+
+     .mato5{
+        display: flex;
+        padding: 100px 10px;
+     }
  
 .color{
     color: black;
@@ -112,6 +117,18 @@ body{
   font-weight: 400;
   position: absolute;
   padding: 8% 16%;
+  text-align: center;
+}
+
+.título5{
+    display: flex;
+    padding: 10px;
+    color: black;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+  font-weight: 400;
+  position: absolute;
+  padding: 0% 64%;
   text-align: center;
 }
 
