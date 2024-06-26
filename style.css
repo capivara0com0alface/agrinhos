@@ -161,18 +161,24 @@ body{
 }
 
 .resu{
-    text-align: center;
+    display: flex;
+    padding: 10px;
     color: black;
     font-family: "Inter", sans-serif;
     font-optical-sizing: auto;
   font-weight: 400;
+  position: absolute;
+  padding: 0% 64%;
+  text-align: center;
+   
 }
 
 .resu2{
-    text-align: center;
     color: black;
+    text-align: center;
     font-family: "Inter", sans-serif;
     font-optical-sizing: auto;
   font-weight: 240;
   font-style: italic;
+    
 }
