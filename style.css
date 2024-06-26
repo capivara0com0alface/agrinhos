@@ -40,7 +40,19 @@ body{
     font-style: italic;
  }
 
- .mato{
+ .mato1{
+    display: flex;
+ }
+
+ .mato2{
+    display: flex;
+ }
+
+ .mato3{
+    display: flex;
+ }
+
+ .mato4{
     display: flex;
  }
 
