@@ -218,6 +218,10 @@ body{
   position: relative;
   display: inline-block;
   text-align: center;
+  font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+  font-weight: 240;
+  font-style: italic;
 }
 .e{
   color: black;
@@ -240,7 +244,7 @@ body{
 .t2{
   color: black;
   position: absolute;
-  top: 50%;
+  top: 32%;
   left: 50%;
   transform: translate(-50%,-50%);
 }
@@ -248,7 +252,7 @@ body{
 .t3{
   color: black;
   position: absolute;
-  top: 50%;
+  top: 45%;
   left: 50%;
   transform: translate(-50%,-50%);
 }
@@ -256,7 +260,7 @@ body{
 .t4{
   color: black;
   position: absolute;
-  top: 50%;
+  top: 61%;
   left: 50%;
   transform: translate(-50%,-50%);
 }
@@ -264,7 +268,7 @@ body{
 .t5{
   color: black;
   position: absolute;
-  top: 50%;
+  top: 81%;
   left: 50%;
   transform: translate(-50%,-50%);
 }
