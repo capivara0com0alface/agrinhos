@@ -83,3 +83,15 @@ body{
   padding: 0% 62%;
   text-align: center;
 }
+
+.título4{
+    display: flex;
+    padding: 10px;
+    color: black;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+  font-weight: 400;
+  position: absolute;
+  padding: 0% 62%;
+  text-align: center;
+}
