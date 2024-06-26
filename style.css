@@ -55,6 +55,7 @@ body{
 
  .mato4{
     display: flex;
+    padding: 100px 10px;
  }
 
  .ma{
@@ -106,6 +107,6 @@ body{
     font-optical-sizing: auto;
   font-weight: 400;
   position: absolute;
-  padding: 2% 16%;
+  padding: 8% 16%;
   text-align: center;
 }
