@@ -44,12 +44,14 @@ body{
  }
 
  .ma{
-        width: 2%;
-        height: 1%;
-        padding: 51px;
+    width: 36%;
+    height: 2%;
+    padding: 19px 42px;
     }
  
 .color{
     color: black;
+    padding: 1px 2px;
+    text-align: center;
 }
 
