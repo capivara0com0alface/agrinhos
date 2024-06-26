@@ -63,4 +63,9 @@ body{
 .título2{
     display: flex;
     padding: 10px;
+    color: black;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+  font-weight: 240;
+  font-style: italic;
 }
