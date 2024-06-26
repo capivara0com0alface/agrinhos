@@ -79,5 +79,6 @@ body{
     font-optical-sizing: auto;
   font-weight: 400;
   position: absolute;
-    padding: 2% 15%;
+  padding: 0% 62%;
+  text-align: center;
 }
