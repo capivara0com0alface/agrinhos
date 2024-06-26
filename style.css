@@ -64,6 +64,10 @@ body{
     padding: 19px 42px;
     background-color: #DEF5DE;
     }
+
+    .mato5{
+        display: flex;
+     }
  
 .color{
     color: black;
@@ -100,6 +104,18 @@ body{
 }
 
 .título4{
+    display: flex;
+    padding: 10px;
+    color: black;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+  font-weight: 400;
+  position: absolute;
+  padding: 8% 16%;
+  text-align: center;
+}
+
+.título5{
     display: flex;
     padding: 10px;
     color: black;
