@@ -2,6 +2,7 @@
 
 body{
     color: white;
+    padding: 10px;
 }
 .topo{
     display: flex;
@@ -92,6 +93,6 @@ body{
     font-optical-sizing: auto;
   font-weight: 400;
   position: absolute;
-  padding: 0% 62%;
+  padding: 2% 16%;
   text-align: center;
 }
