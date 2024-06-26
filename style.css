@@ -53,5 +53,7 @@ body{
     color: black;
     padding: 1px 2px;
     text-align: center;
+    font-family: "Inter", sans-serif;
+  font-style: normal;
 }
 
